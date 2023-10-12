@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603992180836",
+    "project_id": "mapa2-f07f7",
+    "storage_bucket": "mapa2-f07f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603992180836:android:b2f59e086b4ab2ac433771",
+        "android_client_info": {
+          "package_name": "cl.paul.mapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuFWNkPmgR0WBloyKxCFpnKwuiaMSaDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
